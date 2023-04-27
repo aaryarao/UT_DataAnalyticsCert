@@ -4,7 +4,7 @@ This repository showcases two of the projects completed in my data analytics cer
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-## Foodhub analysis - Python
+## Foodhub Analysis - Python
 
 This project showcases the use of pandas and effective visualizations for data analysis in Python. The project includes a Jupyter notebook with examples of uni and multivariate analyses, as well as answers to important data driven questions.
 
